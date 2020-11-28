@@ -14,7 +14,7 @@ for i in range(0, 7):
 if asc:
     print('ascending')
 elif des:
-    print('desceding')
+    print('descending')
 else:
     print('mixed')
 
