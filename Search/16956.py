@@ -34,7 +34,6 @@ if flag == False:
                             arr[i2][j2] = 'D'
 
 
-
     print("1")
     for i in range(r):
         for j in range(c):
